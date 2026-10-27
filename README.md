@@ -13,6 +13,8 @@
 
 ### 🚀 Sobre mí
 
+Software Engineer con **más de 7 años** construyendo aplicaciones escalables. Me especializo en **Python, Node.js, Go, TypeScript y React**, con foco en **microservicios y arquitecturas serverless en AWS**, CI/CD y TDD.
+
 - 💼 Lidero técnicamente el equipo de backend de **[EFEX](https://efex.com)**: diseño de sistemas y servicios de alta disponibilidad para flujos de pago.
 - 🏗️ Tomo decisiones de arquitectura enfocadas en escalabilidad, confiabilidad y tolerancia a fallos.
 - 🧪 Impulso estándares de ingeniería: testing (TDD, unit + integración), CI/CD y observabilidad.
@@ -26,11 +28,26 @@
 | 2023 – 2025 | Senior Software Engineer | EFEX |
 | 2022 – 2023 | Software Engineer | Kushki |
 | 2021 – 2022 | Software Engineer | Coop. de Ahorro y Crédito Gualaquiza |
+| 2019 – 2021 | Software Engineer | Teedii |
+
+### 🎓 Formación y certificaciones
+
+- 🎓 Maestría en Ciencia de Datos Aplicada, especialización en FinTech — IEXE Universidad
+- 🎓 Ingeniería de Software (en curso) — Universidad Politécnica Salesiana del Ecuador
+- 🎓 Tecnólogo en Desarrollo de Software — Instituto Superior Tecnológico Amazónico
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS_Certified_Developer-Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified Developer - Associate" />
+  <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+  <img src="https://img.shields.io/badge/MongoDB-M220JS-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="M220JS: MongoDB for JavaScript Developers" />
+  <img src="https://img.shields.io/badge/Scrum-SFPC-0B6EFD?style=flat-square&logo=scrumalliance&logoColor=white" alt="Scrum Foundation Professional Certificate" />
+  <img src="https://img.shields.io/badge/Big_Data-Professional_Certificate-6F42C1?style=flat-square" alt="Big Data Professional Certificate" />
+</p>
 
 ### 🧰 Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,nextjs,vue,nodejs,express,java,php,laravel,postgres,docker,aws,git&perline=8" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=python,django,go,nodejs,ts,js,react,nextjs,vue,express,java,php,laravel,postgres,mongodb,docker,aws,githubactions,git&perline=10" alt="Tecnologías" />
 </p>
 
 ### 📌 Proyectos personales
